@@ -16,5 +16,9 @@
   "migration_08.md",
   "migration_09.md",
   "migration_10.md",
+  "orm_01.md",
+  "orm_02.md",
+  "orm_03.md",
+  "orm_04.md",
   "matome.md"
 ]
