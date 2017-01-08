@@ -1,5 +1,6 @@
-## アジェンダ
+### アジェンダ
 
 * Sequelとは
-* Sequelの使い方
+* 使い方
+* Sequel vs Active Record
 * Real World Sequel
