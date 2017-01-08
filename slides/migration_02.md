@@ -17,14 +17,3 @@ Sequel.migration do
 end
 ```
 
-reversible migrationsの場合、"change"メソッドが使える
-
-```ruby
-Sequel.migration do
-  change do
-    create_table(:articles) do
-      ...
-    end
-  end
-end
-```

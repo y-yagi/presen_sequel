@@ -12,7 +12,7 @@ $ tree .
 sequel sqlite://developement.db -m migrate
 ```
 
-でmigrationが実行される("-m"オプションにはmigrationファイルがあるディレクトリを指定)。
+でmigrationが実行出来る("-m"オプションにはmigrationファイルがあるディレクトリを指定)。
 
 <small>
 が、ARにおける"db:rollback"相当の処理が無く、実際のアプリでmigrateを実行する場合は、SequelのAPIをラップしたrakeタスクを準備するのが良さそう(詳細は後述)。
