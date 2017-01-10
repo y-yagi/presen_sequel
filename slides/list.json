@@ -32,5 +32,8 @@
   "multi_db_01.md",
   "multi_db_02.md",
   "sharding_01.md",
+  "composite_primary_key_01.md",
+  "composite_primary_key_02.md",
+  "break_time.md",
   "matome.md"
 ]
